@@ -2,5 +2,7 @@
 
 run this to install dependencies
 
-npm install fs-extra ganache mocha web3 solc@04.17
+npm install fs-extra ganache mocha web3 solc@0.4.17
+
+
 
