@@ -52,4 +52,4 @@ describe("Campaigns", () => {
       const isContributor = await campaign.methods.approvers(accounts[1]).call();
       assert(isContributor);
     });
-  });
+});
